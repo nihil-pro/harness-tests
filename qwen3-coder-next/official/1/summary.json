@@ -1,0 +1,12 @@
+{
+  "log_dir": "/Users/konstantinroman/Documents/prompting/results/qwen3-coder-next/official/1",
+  "run": "1",
+  "skills_invoked": {},
+  "questions_asked": [],
+  "tokens": {
+    "prompt_tokens": 18815,
+    "completion_tokens": 129,
+    "total_tokens": 18944
+  },
+  "num_requests": 1
+}

@@ -1,0 +1,12 @@
+{
+  "log_dir": "/Users/konstantinroman/Documents/prompting/results/qwen3-6-plus/official/1",
+  "run": "1",
+  "skills_invoked": {},
+  "questions_asked": [],
+  "tokens": {
+    "prompt_tokens": 19231,
+    "completion_tokens": 98,
+    "total_tokens": 19329
+  },
+  "num_requests": 2
+}

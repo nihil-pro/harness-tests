@@ -1,0 +1,23 @@
+{
+  "log_dir": "/Users/konstantinroman/Documents/prompting/results/qwen3-coder-next/patched/1",
+  "run": "1",
+  "skills_invoked": {
+    "new-app": 1
+  },
+  "questions_asked": [
+    {
+      "question": "Which build tool should I use for this React application?",
+      "options": [
+        "Vite",
+        "Create React App",
+        "Next.js"
+      ]
+    }
+  ],
+  "tokens": {
+    "prompt_tokens": 8797,
+    "completion_tokens": 62,
+    "total_tokens": 8859
+  },
+  "num_requests": 7
+}

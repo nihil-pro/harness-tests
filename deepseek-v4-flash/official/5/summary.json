@@ -1,0 +1,12 @@
+{
+  "log_dir": "/Users/konstantinroman/Documents/prompting/results/deepseek-v4-flash/official/5",
+  "run": "5",
+  "skills_invoked": {},
+  "questions_asked": [],
+  "tokens": {
+    "prompt_tokens": 23149,
+    "completion_tokens": 98,
+    "total_tokens": 23247
+  },
+  "num_requests": 3
+}

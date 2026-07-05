@@ -1,0 +1,31 @@
+{
+  "log_dir": "/Users/konstantinroman/Documents/prompting/results/claude-sonet-4-6/patched/2",
+  "run": "2",
+  "skills_invoked": {
+    "new-app": 1,
+    "routing": 1,
+    "state-management": 1
+  },
+  "questions_asked": [
+    {
+      "question": "Which build tool / bundler would you like to use for this React app?",
+      "options": [
+        "Vite (Recommended)",
+        "Create React App"
+      ]
+    },
+    {
+      "question": "TypeScript or plain JavaScript?",
+      "options": [
+        "TypeScript (Recommended)",
+        "JavaScript"
+      ]
+    }
+  ],
+  "tokens": {
+    "prompt_tokens": 12523,
+    "completion_tokens": 114,
+    "total_tokens": 12637
+  },
+  "num_requests": 9
+}
